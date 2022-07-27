@@ -5,4 +5,3 @@ Back-end Developer
 SQL
 PHP
 Full-stack Developer
-python
